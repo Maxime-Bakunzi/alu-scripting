@@ -59,3 +59,5 @@ python3 3-main.py <subreddit> <list of keywords>
 
 Feel free to explore and use these scripts to interact with the Reddit API. Enjoy!
 
+## Author
+(Maxime Bakunzi)[https://github.com/Maxime-Bakunzi] 
